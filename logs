@@ -1,0 +1,7 @@
+/*package.json
+//changed the mongoose version from ~3.8.* to 4.4.5 because i was getting some error or warning messages at the
+//console which can be ignored at development stage but not at production stage
+
+https://github.com/Automattic/mongoose/issues/3436
+
+*/
